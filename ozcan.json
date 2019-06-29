@@ -1,0 +1,20 @@
+#This is a sample json file
+{
+    "name" : "ozcan",
+    "surname" : "ozkaya",
+    "age" : "38"
+    "favorite_sports" : {
+        "first" : "formula1",
+        "second" : "motogp"
+    } 
+    "hobbies" : {
+        "fist" : "gokarting_with_friends",
+        "second" : "family_trips"
+    }
+    "ambitions" : {
+        "type" : "to_be_a_senior_devops_engineer",
+        "time_scale" : "5_years",
+        "goal" : "learn_and_deploy_cutting_edge_application_on_the_cloud"
+    }
+
+}
