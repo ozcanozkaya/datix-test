@@ -1,6 +1,6 @@
 # datix-test
 
-datix-test project contains follwing:
+datix-test project contains following:
 
 1 README.md 
 2 Dockerfile
